@@ -19,7 +19,5 @@ delay(1000);
 digitalWrite(x,LOW);
 digitalWrite(y,HIGH);
 delay(1000);
-// put function definitions here:
-int myFunction(int x, int y) {
-  return x + y;
+
 }
