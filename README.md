@@ -7,6 +7,8 @@
 = Project: {BIRDHOUSE.IO}
 
 project description
+
+
 This is an attempt to make a smarthouse using the microcontroller Esp32 by Espressif.
 I settled for the esp32 bcause of its intergrated bluetooth and wifi capabilities
 
