@@ -1,15 +1,14 @@
-:Author: 
+Author: 	  
 stanley33
-:Email:
-sdnjindo@outlook.com
-:Date: 
-19/01/2024
-:Revision:
-version#
-:License: 
-Public Domain
 
-= Project: {BIRDHOUSE.IO}
+Email:
+sdnjindo@outlook.com
+
+Date: 
+19/01/2024
+
+
+Project: {BIRDHOUSE.IO}
 
 project description
 
